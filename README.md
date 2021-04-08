@@ -13,7 +13,7 @@
 <img align="left" alt="Rafael's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RcleydsonR&show_icons=true&hide_border=true"/>
 
 [instagram]: https://instagram.com/rafacleydson
-[linkedin]: https://linkedin.com/in/rafael-ramos
+[linkedin]: https://linkedin.com/in/rafael-ramos-481bb6203
 
 
 
